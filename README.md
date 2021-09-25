@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Biresh
-- ✨ I have completed 10 hours course on c++ by Caleb Curry and I have known the basics perfectly.
-- 👀 I’m interested in AI/CS , Coding etc.
+- 👋 Hi, I’m Biresh.
+- ✨ c++ completed.
+- 👀 I’m interested in AI, ML, Coding.
 - 🌱 I’m currently learning DSA in java by Kunal Kushwaha.
-- 💞️ I have started Freelancing after getting motivated by Ishan Sharma.
+- 💞️ I have started Freelancing. ( motivated by Ishan Sharma.)
 - 📫 you can contact me on workinguse5@gmail.com
 
 <!---
