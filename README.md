@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Biresh.
+-  ♦ I am in High school right now.
 - ✨ c++ completed.
 - 👀 I’m interested in AI, ML, Coding.
 - 🌱 I’m currently learning DSA in java by Kunal Kushwaha.
