@@ -3,7 +3,6 @@
 - ✨ c++ completed.
 - 👀 I’m interested in AI, ML, Coding.
 - 🌱 I’m currently learning DSA in java, Cloud computing and Android development.
-- 💞️ I have started Freelancing.
 - 📫 you can contact me on workinguse5@gmail.com
 
 <!---
