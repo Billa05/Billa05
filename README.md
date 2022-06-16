@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Biresh.
 -  ♦ I am in High school right now.
-- ✨ c++ completed.
+- ✨ completed c++ and Android development in java.
 - 👀 I’m interested in AI, ML, Coding.
-- 🌱 I’m currently learning DSA in java, Cloud computing and Android development.
 - 📫 you can contact me on workinguse5@gmail.com
 
 <!---
